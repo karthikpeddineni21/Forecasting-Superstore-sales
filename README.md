@@ -1,1 +1,1 @@
-# Forecasting-Superstore-slaes
+# Forecasting-Superstore-sales
